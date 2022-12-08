@@ -1,6 +1,7 @@
 # getx_mysql_example
 
-A new Flutter project.
+server : flutter_bootapi(springboot)
+view : getx_mysql_example(flutter)
 
 ## Getting Started
 
